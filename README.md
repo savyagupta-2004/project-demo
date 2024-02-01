@@ -2,4 +2,4 @@
 
 This is my first repository.
 <br>
-Author-Savya Gupta(wow)
+Author-Savya Gupta
